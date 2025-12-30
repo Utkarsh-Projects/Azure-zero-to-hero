@@ -121,6 +121,7 @@
 - How to create Deployment, Service and Ingress
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
+<img width="632" height="792" alt="image" src="https://github.com/user-attachments/assets/524d50fc-4c3f-4caa-a70c-77bb292bfcd4" />
 
 ## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
